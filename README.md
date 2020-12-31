@@ -1,5 +1,5 @@
 !!!
-<meta charet="utf-8">
+<head><meta charset="utf-8"></head>
 !!!
 
 #友链申请方式：
